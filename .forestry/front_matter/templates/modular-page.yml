@@ -26,5 +26,10 @@ fields:
     schema:
       format: markdown
   label: Body
+- name: include_sample
+  type: include
+  config: {}
+  template: blog-post
+  label: Include Sample
 pages:
 - hello-world.md
