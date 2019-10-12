@@ -2,6 +2,11 @@
 label: Modular Page
 hide_body: true
 fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
 - name: block
   type: blocks
   label: Block
