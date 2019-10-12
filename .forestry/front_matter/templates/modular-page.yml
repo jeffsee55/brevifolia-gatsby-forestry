@@ -17,5 +17,14 @@ fields:
   config:
     min: 
     max: 
+- name: body
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Body
 pages:
 - hello-world.md
