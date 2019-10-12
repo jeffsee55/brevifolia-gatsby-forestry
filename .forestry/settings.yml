@@ -7,6 +7,13 @@ sections:
 - type: heading
   label: Content
 - type: directory
+  path: ''
+  label: Modular Page
+  create: all
+  match: "**/*"
+  templates:
+  - modular-page
+- type: directory
   path: content/posts
   label: Blog Posts
   create: documents
