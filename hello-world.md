@@ -10,5 +10,6 @@ block:
   title: Sample Config
   description: Just testing things out
   repository_url: ''
+body: Here is some content.
 
 ---
