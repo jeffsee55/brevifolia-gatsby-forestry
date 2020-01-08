@@ -31,5 +31,3 @@ fields:
   config: {}
   template: blog-post
   label: Include Sample
-pages:
-- hello-world.md
