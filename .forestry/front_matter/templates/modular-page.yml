@@ -33,3 +33,4 @@ fields:
   label: Include Sample
 pages:
 - mine/here-we-go.md
+- mine/some-folder/page-inside-another-folder.md
